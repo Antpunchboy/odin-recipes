@@ -17,7 +17,7 @@
     background-color: rgb(37, 31, 70);
     color: white
 }
-.lasagna {
+.lasagna, .banana_pudding, .fries {
     height: auto;
     width: 350px
 }
