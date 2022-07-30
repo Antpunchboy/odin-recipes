@@ -1,10 +1,12 @@
 .home {
     background-color: rgb(235, 192, 113);
 }
-.link {
-    font-size: 30px;
-}
 * {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
+.link {
+    font-size: 30px;
+    text-align: left;
+}
+
